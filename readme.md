@@ -6,6 +6,10 @@ Danışmanım: Öğr. Gör. ÖZGÜR ÇİFTÇİ
 
 ![kahve](kahve.png)
 
+## UML Diagram
+
+![Pişti UML Diagram](pisti-uml-diagram.jpg)
+
 ## Açıklama
 
 Tasarım desenlerini öğrenme ve uygulama amaçlı geliştirilmiştir.
@@ -59,10 +63,6 @@ Tasarım desenlerini öğrenme ve uygulama amaçlı geliştirilmiştir.
 
 - resimler klasörü
 
-## UML Diagram
-
-![Pişti UML Diagram](pisti-uml-diagram.jpg)
-
 # Derleme ve Çalıştırma
 
-Netbeans veya Eclipse ile proje açılırsa, derlenilip çalıştırılabilir diye düşünüyorum, bizzat denemedim.
+Netbeans veya Eclipse ile proje açılırsa, derlenilip çalıştırılabilir.
